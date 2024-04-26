@@ -29,4 +29,8 @@
     .align-center{
         text-align: right;
     }
-    
+
+
+    .list{
+    list-style: none;
+}
