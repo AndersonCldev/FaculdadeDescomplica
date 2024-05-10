@@ -34,3 +34,16 @@
     .list{
     list-style: none;
 }
+
+div{
+    width:500px;
+    height: 500px;
+    background: blueviolet;
+}
+
+.div{
+    background: orange;
+}
+#div, #div2{
+    background: blue;
+}
