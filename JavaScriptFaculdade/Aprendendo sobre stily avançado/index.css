@@ -1,0 +1,49 @@
+
+        a{
+            font-size:84px;
+            color: red;
+        }
+    iframe{
+        width : 800px;
+        height: 800x;
+    }
+
+    .erro {
+        color:brown
+    }
+    
+    p{
+        font-size: 30px;
+    }
+
+
+
+    .align-left{
+        text-align: left;
+    }
+
+    .align-center{
+        text-align: center;
+    }
+
+    .align-center{
+        text-align: right;
+    }
+
+
+    .list{
+    list-style: none;
+}
+
+div{
+    width:500px;
+    height: 500px;
+    background: blueviolet;
+}
+
+.div{
+    background: orange;
+}
+#div, #div2{
+    background: blue;
+}
